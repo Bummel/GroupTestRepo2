@@ -8,10 +8,10 @@
 
 	<article>
 		<header>
-			<h2>Group22 Member List</h2>
+			<h2>User2</h2>
 		</header>
 		<ul>
-			<li><a href="<c:url value="/example" />">Example</a></li>
-			<li><a href="<c:url value="/user2" />">User2</a></li>
+			<li><a href="<c:url value="/" />">Index</a></li>
+
 		</ul>
 	</article>
