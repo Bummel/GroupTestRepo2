@@ -15,4 +15,10 @@ public class GroupListController {
 	{
 		return "example";
 	}
+	
+	@RequestMapping("/user1")
+	public String to_user1() 
+	{
+		return "user1";
+	}
 }
